@@ -1,0 +1,127 @@
+---
+title: "Análisis y Visualización de Datos "
+subtitle: "Usando R"
+author: "Marcela Alfaro Córdoba con material de The Carpentries"
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: ["default", "rladies", "rladies-fonts"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+class: center, middle
+
+
+# Antes de iniciar
+
+---
+
+# Objetivos de esta sección
+
+1. Describir el propósito y uso de RStudio, un script, la consola, el ambiente y los páneles de gráficos. 
+
+1. Organizar los archivos y directorios para una serie de análisis como un proyecto de R, y entender el propósito del directorio de trabajo.
+
+1. Utilizar funciones de la interface de RStudio para buscar ayuda acerac de las funciones de R.
+
+1. Demostrar cómo podemos consguir información y ayuda en la comunidad de usuarias de R.
+
+---
+
+# ¿Qué es R? ¿qué es RStudio?
+ 
+“R” se refiere al lenguaje de programación R y también al software que interpreta los scripts escritos en dicho lenguaje. 
+
+RStudio es la interface (IDE) más popular de R, que no solo le permite escribir scripts de R, sino que también puede interactuar con funcionalidades para R. RStudio necesita de R, por lo que antes de instalarlo, debe asegurarse que R corre correctamente en su computadora.
+
+---
+
+# ¿Por qué usar R? 
+
+1. R no necesita de "pointing and clicking", y eso es algo bueno
+
+1. El código de R es excelente para la reproducibilidad;
+
+1. R es interdisciplinario y extendible;
+
+1. R trabaja con datos de todas las formas y tamaños;
+
+1. R produce gráficos de alta calidad;
+
+1. R tiene una comunidad grande y muy cálida;
+
+1. No solo R es gratis, sino que también es de código abierto y compatible con todas las plataformas;
+
+---
+
+# Empecemos con RStudio
+
+Cuando abra por primera vez RStudio, será recibida por tres paneles:
+
+* La consola interactiva de R (a la izquierda)
+
+* Ambiente/Historial (en la esquina superior derecha)
+
+* Archivos/Gráficos/Paquetes/Ayuda/Visor (abajo a la derecha)
+
+--
+
+Si abre archivos, como los scripts R, también se abrirá un panel de editor en la esquina superior izquierda.
+
+--
+
+<center> <span style = "font-size: 230%"> ¡Manos a la obra! </span> </center>
+
+---
+
+# Getting set up
+
+Organizing your working directory
+
+The working directory
+
+---
+
+# Interacting with R
+
+---
+
+# How to learn more after the workshop?
+
+---
+
+# Seeking help
+
+I know the name of the function I want to use, but I’m not sure how to use it
+
+I want to use a function that does X, there must be a function for it but I don’t know which one…
+
+I am stuck… I get an error message that I don’t understand
+
+Asking for help
+
+Where to ask for help?
+
+More resources
+
+---
+
+class: center, middle
+
+# ¡Gracias!
+
+Sitio creado via el paquete de R  [**xaringan**](https://github.com/yihui/xaringan).
+
+El chakra viene de [remark.js](https://remarkjs.com), [**knitr**](http://yihui.name/knitr), y [R Markdown](https://rmarkdown.rstudio.com).
+
+Las lecciones son de [The Carpentries](https://datacarpentry.org/R-ecology-lesson/)
+
+

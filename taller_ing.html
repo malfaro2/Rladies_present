@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Análisis y Visualización de Datos</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Marcela Alfaro Córdoba con material de The Carpentries" />
+    <link href="libs/remark-css/default.css" rel="stylesheet" />
+    <link href="libs/remark-css/rladies.css" rel="stylesheet" />
+    <link href="libs/remark-css/rladies-fonts.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Análisis y Visualización de Datos
+## Usando R
+### Marcela Alfaro Córdoba con material de The Carpentries
+### 2016/12/12 (updated: 2019-02-20)
+
+---
+
+
+
+
+class: center, middle
+
+
+# Antes de iniciar
+
+---
+
+# Objetivos de esta sección
+
+1. Describir el propósito y uso de RStudio, un script, la consola, el ambiente y los páneles de gráficos. 
+
+1. Organizar los archivos y directorios para una serie de análisis como un proyecto de R, y entender el propósito del directorio de trabajo.
+
+1. Utilizar funciones de la interface de RStudio para buscar ayuda acerac de las funciones de R.
+
+1. Demostrar cómo podemos consguir información y ayuda en la comunidad de usuarias de R.
+
+---
+
+# ¿Qué es R? ¿qué es RStudio?
+ 
+“R” se refiere al lenguaje de programación R y también al software que interpreta los scripts escritos en dicho lenguaje. 
+
+RStudio es la interface (IDE) más popular de R, que no solo le permite escribir scripts de R, sino que también puede interactuar con funcionalidades para R. RStudio necesita de R, por lo que antes de instalarlo, debe asegurarse que R corre correctamente en su computadora.
+
+---
+
+# ¿Por qué usar R? 
+
+1. R no necesita de "pointing and clicking", y eso es algo bueno
+
+1. El código de R es excelente para la reproducibilidad;
+
+1. R es interdisciplinario y extendible;
+
+1. R trabaja con datos de todas las formas y tamaños;
+
+1. R produce gráficos de alta calidad;
+
+1. R tiene una comunidad grande y muy cálida;
+
+1. No solo R es gratis, sino que también es de código abierto y compatible con todas las plataformas;
+
+---
+
+# Empecemos con RStudio
+
+Cuando abra por primera vez RStudio, será recibida por tres paneles:
+
+* La consola interactiva de R (a la izquierda)
+
+* Ambiente/Historial (en la esquina superior derecha)
+
+* Archivos/Gráficos/Paquetes/Ayuda/Visor (abajo a la derecha)
+
+--
+
+Si abre archivos, como los scripts R, también se abrirá un panel de editor en la esquina superior izquierda.
+
+--
+
+&lt;center&gt; &lt;span style = "font-size: 230%"&gt; ¡Manos a la obra! &lt;/span&gt; &lt;/center&gt;
+
+---
+
+# Getting set up
+
+Organizing your working directory
+
+The working directory
+
+---
+
+# Interacting with R
+
+---
+
+# How to learn more after the workshop?
+
+---
+
+# Seeking help
+
+I know the name of the function I want to use, but I’m not sure how to use it
+
+I want to use a function that does X, there must be a function for it but I don’t know which one…
+
+I am stuck… I get an error message that I don’t understand
+
+Asking for help
+
+Where to ask for help?
+
+More resources
+
+---
+
+class: center, middle
+
+# ¡Gracias!
+
+Sitio creado via el paquete de R  [**xaringan**](https://github.com/yihui/xaringan).
+
+El chakra viene de [remark.js](https://remarkjs.com), [**knitr**](http://yihui.name/knitr), y [R Markdown](https://rmarkdown.rstudio.com).
+
+Las lecciones son de [The Carpentries](https://datacarpentry.org/R-ecology-lesson/)
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function() {
+  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})();</script>
+
+<script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+})();
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
