@@ -11,11 +11,26 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+    includes:
+      in_header: header.html
 ---
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(tidy = FALSE, eval = FALSE)
 ```
+
+class: inverse, center, middle
+
+# Contactos
+
+<a href="mailto:marcela@rladies.org"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; marcela@rladies.org</a><br>
+<a href="https://malfaro2.github.io"><i class="fa fa-link fa-fw"></i>&nbsp; malfaro2.github.io</a><br>
+<a href="http://twitter.com/Fichulina"><i class="fa fa-twitter fa-fw"></i>&nbsp; @FIchulina</a><br>
+<a href="http://github.com/malfaro2"><i class="fa fa-github fa-fw"></i>&nbsp; @malfaro</a><br>
+<a href="http://cimpa.ucr.ac.cr/index.php/acerca-de/personal/investigadores/marcela"><i class="fa fa-map-marker fa-fw"></i>&nbsp; CIMPA Centro de Investigaciones en Matemática Pura y Aplicada</a>
+
+---
 
 class: center, middle
 
