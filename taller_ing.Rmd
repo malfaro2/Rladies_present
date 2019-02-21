@@ -52,9 +52,9 @@ class: center, middle
 
 1. Organizar los archivos y directorios para una serie de análisis como un proyecto de R, y entender el propósito del directorio de trabajo.
 
-1. Utilizar funciones de la interface de RStudio para buscar ayuda acerac de las funciones de R.
+1. Utilizar funciones de la interface de RStudio para buscar ayuda acerca de las funciones de R.
 
-1. Demostrar cómo podemos consguir información y ayuda en la comunidad de usuarias de R.
+1. Demostrar cómo podemos conseguir información y ayuda en la comunidad de usuarias de R.
 
 ---
 
