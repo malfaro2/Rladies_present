@@ -24,11 +24,18 @@ class: inverse, center, middle
 
 # Contactos
 
-<a href="mailto:marcela@rladies.org"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; marcela@rladies.org</a><br>
-<a href="https://malfaro2.github.io"><i class="fa fa-link fa-fw"></i>&nbsp; malfaro2.github.io</a><br>
-<a href="http://twitter.com/Fichulina"><i class="fa fa-twitter fa-fw"></i>&nbsp; @FIchulina</a><br>
-<a href="http://github.com/malfaro2"><i class="fa fa-github fa-fw"></i>&nbsp; @malfaro</a><br>
-<a href="http://cimpa.ucr.ac.cr/index.php/acerca-de/personal/investigadores/marcela"><i class="fa fa-map-marker fa-fw"></i>&nbsp; CIMPA Centro de Investigaciones en Matemática Pura y Aplicada</a>
+<a href="mailto:fabisalazar14@hotmail.com"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; Fabiola Salazar </a><br>
+
+<a href="mailto:mariapaulamesnmndez@gmail.com"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; María Paula Mesén </a><br>
+
+<a href="mailto:jruizrivera1@gmail.com "><i class="fa fa-paper-plane fa-fw"></i>&nbsp; Jimena Ruiz </a><br>
+
+
+<a href="https://www.meetup.com/rladies-san-jose/"><i class="fa fa-link fa-fw"></i>&nbsp; https://www.meetup.com/rladies-san-jose/</a><br>
+<a href="https://twitter.com/RladiesCR"><i class="fa fa-twitter fa-fw"></i>&nbsp; @RladiesCR</a><br>
+<a href="https://github.com/malfaro2/RladiesSJO"><i class="fa fa-github fa-fw"></i>&nbsp; @malfaro2/RladiesSJO</a><br>
+
+<a href="mailto:sanjoseCR@rladies.org"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; sanjoseCR@rladies.org</a><br>
 
 ---
 
