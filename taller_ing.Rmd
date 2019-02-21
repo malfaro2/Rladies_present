@@ -2,7 +2,7 @@
 title: "Análisis y Visualización de Datos"
 subtitle: "Usando R"
 author: "Marcela Alfaro Córdoba con material de The Carpentries"
-date: "12/02/19 (updated: `r Sys.Date()`)"
+date: "2019/02/19 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     css: ["default", "rladies", "rladies-fonts"]
@@ -45,6 +45,9 @@ class: center, middle
 # Antes de iniciar
 
 https://malfaro2.github.io/Rladies_present/taller_ing.html
+
+https://pad.carpentries.org/taller_ing
+
 
 ---
 
